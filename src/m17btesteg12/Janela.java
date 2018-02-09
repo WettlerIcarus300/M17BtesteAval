@@ -1,3 +1,4 @@
+//https://github.com/WettlerIcarus300/M17BtesteAval.git
 package m17btesteg12;
 
 public class Janela extends javax.swing.JFrame {
@@ -72,6 +73,7 @@ public class Janela extends javax.swing.JFrame {
             bandeira = false;
          }
       }
+      
       if(bandeira){
          labelPrimoSN.setText("é primo");      
       }
